@@ -1,4 +1,4 @@
-Project link: [chat-here-buddy.netlify.app](chat-here-buddy.netlify.app)
+Project link: [https://chat-here-buddy.netlify.app/](https://chat-here-buddy.netlify.app/)
 
 
 # Getting Started with Create React App
