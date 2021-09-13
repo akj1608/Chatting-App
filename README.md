@@ -1,4 +1,4 @@
-## project link: chat-here-buddy.netlify.app
+Project link: chat-here-buddy.netlify.app
 
 
 # Getting Started with Create React App
