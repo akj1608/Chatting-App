@@ -1,5 +1,8 @@
 Project link: [https://chat-here-buddy.netlify.app/](https://chat-here-buddy.netlify.app/)
 
+username: Akj
+Password:123123
+
 
 # Getting Started with Create React App
 
